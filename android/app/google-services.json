@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097767301293",
+    "project_id": "dairyfarm-4ff9c",
+    "storage_bucket": "dairyfarm-4ff9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097767301293:android:70f5e3ab0054fcc1dfd624",
+        "android_client_info": {
+          "package_name": "com.CGIT.dairyfarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097767301293-g7dudj1j6ac9v4p4ng3rg2kle66g27ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjFJco2eA1TLu8cruWBPanI6T6PxQwT6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097767301293-g7dudj1j6ac9v4p4ng3rg2kle66g27ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
